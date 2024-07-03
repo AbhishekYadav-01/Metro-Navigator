@@ -1,0 +1,6 @@
+New Delhi 0,
+Shivaji Stadium 10,
+Dhaula Kuan 20,
+Delhi Aerocity 30,
+Airport 40,
+Dwarka Sec-21 50,
