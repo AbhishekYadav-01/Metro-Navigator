@@ -71,6 +71,9 @@ int main()
         cout << "Total ticket fare for this journey: " << ticketFare << endl;
         cout << "This is the path with minimum ticket fare: " << endl;
 
+        // Reverse the path before printing
+        reverse(path.begin(), path.end());
+
         for (const auto &stop : path)
         {
             if (&stop != &path.back())
@@ -83,8 +86,6 @@ int main()
             }
         }
 
-
-        
         cout << "Yahoo! You have reached your destination with the minimum ticket fare." << endl;
     }
 
