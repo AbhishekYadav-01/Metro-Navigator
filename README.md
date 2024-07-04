@@ -1,6 +1,6 @@
 # Metro Station Management System
 
-This project implements a Metro Station Management System using advanced data structures in C++. The system efficiently manages metro lines and stations, supports real-time route planning, and calculates optimal ticket fares using pathfinding algorithms. Designed to handle large datasets, the system ensures rapid data retrieval and minimal computational overhead.
+This project implements a Metro Station Management System using advanced data structures in C++. The system efficiently manages metro lines and stations, supports real-time route planning, and calculates optimal ticket fares using pathfinding algorithms. In this project we can find the stations path from which we can travel within minimum fare by just giving input starting station and destination station, also we will get requred fare for that path.This designed to handle large datasets, the system ensures rapid data retrieval and minimal computational overhead.We have used AVL trees in this project. We can visualise also the created AVL tree by just giving input txt files. At the end of this readme.md you will get steps how you can use this system.
 
 ## Features
 
@@ -73,12 +73,11 @@ The system is designed to handle large datasets efficiently, ensuring rapid data
 
 These files allow you to test the system:
 
-- **Path_finding_and_ticket_fare_test.cpp**: Test pathfinding and ticket fare calculation.
-- **see_created_avl_tree_of_stations_without_giving_any_input.cpp**: View the created AVL tree of stations without providing any input.
-- **see_created_avl_tree_of_stations_by_giving_input_text_file.cpp**: View the created AVL tree of stations by providing an input text file.
+- **Path_finding_and_ticket_fare_test.cpp**: You can use this to to find the path according to the minimum fare amd also you will get the the value of total fare .From this you can only search for stations which is given in the dataset .txt files.
+- **see_created_avl_tree_of_stations_without_giving_any_input.cpp**: You can View the created AVL tree of stations without providing any input.Their are some .txt files are given in code .
+- **see_created_avl_tree_of_stations_by_giving_input_text_file.cpp**:You can View the created AVL tree of stations by providing an input text file.In this you will .txt file as input.
 - **taking_text_input_showing_all_stations.cpp**: Take text input and display all stations.
-- **test_by_input_text_file_and_input_station_names.cpp**: Test the system by providing an input text file and station names.
-
+- **test_by_input_text_file_and_input_station_names.cpp**:  You can use this to find the path according to the minimum fare amd also you will get the the value of total fare.From this you can search for any stations which you will provide in input files.You will give .txt file and starting and ending station name as a input and you will get path and total fare.
 **Steps :**
 
 Collect all dataset file in same folder then , add `Metro_Station_Management_System.cpp` file in same folder then test whatever you want from the above list, by adding that testing file in same folder.
