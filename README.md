@@ -71,4 +71,13 @@ The system is designed to handle large datasets efficiently, ensuring rapid data
 
 ## Detailed Testing
 
-Use this by just giving inputs and get your output.
+
+## Detailed Testing
+
+These files allow you to test the system:
+
+- **Path_finding_and_ticket_fare_test.cpp**: Test pathfinding and ticket fare calculation.
+- **see_created_avl_tree_of_stations_without_giving_any_input.cpp**: View the created AVL tree of stations without providing any input.
+- **see_created_avl_tree_of_stations_without_giving_input_text_file.cpp**: View the created AVL tree of stations without providing an input text file.
+- **taking_text_input_showing_all_stations.cpp**: Take text input and display all stations.
+- **test_by_input_text_file_and_input_station_names.cpp**: Test the system by providing an input text file and station names.
