@@ -67,7 +67,7 @@ The system is designed to handle large datasets efficiently, ensuring rapid data
 
 - **Attributes**: `avlTree`, `lines`.
 - **Methods**: `createAVLTree()`, `findPath()`.
-- **Description**: Responsible for finding the optimal path between two stations, using pathfinding algorithms like Dijkstra's and A* to compute the shortest route and calculate the corresponding fare.
+- **Description**: Responsible for finding the optimal path between two stations, using pathfinding algorithms to compute the shortest route and calculate the corresponding fare.
 
 ## Detailed Testing
 
