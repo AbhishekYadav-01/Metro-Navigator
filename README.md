@@ -81,4 +81,4 @@ These files allow you to test the system:
 
 **Steps :**
 
-Collect all dataset file in same folder then , add 'Metro_Station_Management_System.cpp' file in that folder only then test whatever you want from the list .
+Collect all dataset file in same folder then , add `Metro_Station_Management_System.cpp` file in same folder then test whatever you want from the above list, by adding that testing file in same folder.
