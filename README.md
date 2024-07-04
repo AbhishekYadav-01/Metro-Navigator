@@ -71,9 +71,6 @@ The system is designed to handle large datasets efficiently, ensuring rapid data
 
 ## Detailed Testing
 
-
-## Detailed Testing
-
 These files allow you to test the system:
 
 - **Path_finding_and_ticket_fare_test.cpp**: Test pathfinding and ticket fare calculation.
@@ -81,3 +78,7 @@ These files allow you to test the system:
 - **see_created_avl_tree_of_stations_by_giving_input_text_file.cpp**: View the created AVL tree of stations by providing an input text file.
 - **taking_text_input_showing_all_stations.cpp**: Take text input and display all stations.
 - **test_by_input_text_file_and_input_station_names.cpp**: Test the system by providing an input text file and station names.
+
+**Steps :**
+
+Collect all dataset file in same folder then , add 'Metro_Station_Management_System.cpp' file in that folder only then test whatever you want from the list .
