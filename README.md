@@ -1,6 +1,6 @@
-# Metro Station Management System
+# Metro Navigator
 
-This project implements a Metro Station Management System using advanced data structures in C++. The system efficiently manages metro lines and stations, supports real-time route planning, and calculates optimal ticket fares using pathfinding algorithms. In this project we can find the stations path from which we can travel within minimum fare by just giving input starting station and destination station, also we will get requred fare for that path.This designed to handle large datasets, the system ensures rapid data retrieval and minimal computational overhead.We have used AVL trees in this project. We can visualise also the created AVL tree by just giving input txt files. At the end of this readme.md you will get steps how you can use this system.
+This project implements a Metro Navigator using advanced data structures in C++. The system efficiently manages metro lines and stations, supports real-time route planning, and calculates optimal ticket fares using pathfinding algorithms. In this project we can find the stations path from which we can travel within minimum fare by just giving input starting station and destination station, also we will get requred fare for that path.This designed to handle large datasets, the system ensures rapid data retrieval and minimal computational overhead.We have used AVL trees in this project. We can visualise also the created AVL tree by just giving input txt files. At the end of this readme.md you will get steps how you can use this system.
 
 ## Features
 
